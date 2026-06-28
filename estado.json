@@ -2,7 +2,7 @@
   "ultima_actualizacion": "2026-06-09",
   "agentes": {
     "personal": { "estado": "activo", "ultima_corrida": "2026-06-09", "ultima_actividad": "Recordatorio de ejercicio generado", "cadencia": "diaria 9pm" },
-    "bickdata": { "estado": "activo", "ultima_corrida": "2026-06-21", "ultima_actividad": "Check de pendientes: sin avances desde 2026-06-09 — 3 frentes abiertos sin movimiento (captación sin nicho/lista, RUC PN pendiente, acuerdo Joshua pendiente)", "ultima_actualizacion": "2026-06-21", "cadencia": null },
+    "bickdata": { "estado": "activo", "ultima_corrida": "2026-06-28", "ultima_actividad": "Check de pendientes (2026-06-28): sin avances reportados — 3 frentes siguen abiertos (captación sin nicho/lista/outreach, RUC PN sin tramitar, acuerdo Joshua pendiente)", "ultima_actualizacion": "2026-06-28", "cadencia": null },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 4", "cadencia": null },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
