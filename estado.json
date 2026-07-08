@@ -1,7 +1,7 @@
 {
   "ultima_actualizacion": "2026-07-08",
   "agentes": {
-    "personal": { "estado": "activo", "ultima_corrida": "2026-07-08", "ultima_actividad": "Día 3 — PIERNAS Ciclo 8 (Issue #3 abierto). Racha: 0 — primer día del sistema de tracking.", "racha": 0, "cadencia": "diaria 7am" },
+    "personal": { "estado": "activo", "ultima_corrida": "2026-07-08", "ultima_actividad": "Día 3 — PIERNAS Ciclo 8 (Issue #3 cerrado ✅ — entrenó, omitió hip thrust y RDL). Racha: 1", "racha": 1, "cadencia": "diaria 7am" },
     "bickdata": { "estado": "activo", "ultima_corrida": "2026-07-05", "ultima_actividad": "Check de pendientes (2026-07-05): 3 frentes sin avance desde junio — captación sin nicho/lista/outreach definido, RUC PN sin tramitar, acuerdo Joshua pendiente", "ultima_actualizacion": "2026-07-05", "cadencia": null },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 4", "cadencia": null },
