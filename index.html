@@ -166,6 +166,7 @@
           <div class="name">${meta.name}</div>
           <div class="activity">${a.ultima_actividad || "Sin actividad registrada"}</div>
           ${a.cadencia ? `<div class="sub">↻ ${a.cadencia}</div>` : ``}
+          ${typeof a.racha === "number" ? `<div class="sub">🔥 racha: ${a.racha} día${a.racha === 1 ? "" : "s"}</div>` : ``}
         </div>
         <div class="state">
           <span class="pill ${st}">${st}</span>
