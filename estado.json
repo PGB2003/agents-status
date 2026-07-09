@@ -1,8 +1,21 @@
 {
   "ultima_actualizacion": "2026-07-09",
   "agentes": {
-    "personal": { "estado": "activo", "ultima_corrida": "2026-07-09", "ultima_actividad": "Día 4 FULL BODY/METCON Ciclo 8 — cerrado ✅ — racha 2 🔥", "racha": 2, "cadencia": "diaria 7am" },
-    "bickdata": { "estado": "activo", "ultima_corrida": "2026-07-05", "ultima_actividad": "Check de pendientes (2026-07-05): 3 frentes sin avance desde junio — captación sin nicho/lista/outreach definido, RUC PN sin tramitar, acuerdo Joshua pendiente", "ultima_actualizacion": "2026-07-05", "cadencia": null },
+    "personal": {
+      "estado": "activo",
+      "ultima_corrida": "2026-07-09",
+      "ultima_actividad": "Scouting semanal depas 2026-07-09 — 4 calificados (top: Único Magdalena 9/10, Vista Brasil 8/10, Campo Marte 7/10) + 1 RED FLAG (NIUS/Grupo TyC) — Issue #5 abierto",
+      "racha": 2,
+      "cadencia": "diaria 7am + semanal depas",
+      "ultimo_scouting_depas": "2026-07-09"
+    },
+    "bickdata": {
+      "estado": "activo",
+      "ultima_corrida": "2026-07-05",
+      "ultima_actividad": "Check de pendientes (2026-07-05): 3 frentes sin avance desde junio — captación sin nicho/lista/outreach definido, RUC PN sin tramitar, acuerdo Joshua pendiente",
+      "ultima_actualizacion": "2026-07-05",
+      "cadencia": null
+    },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 4", "cadencia": null },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
