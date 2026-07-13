@@ -19,8 +19,8 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "activo",
-      "ultima_corrida": "2026-07-12",
-      "ultima_actividad": "22 señales BUY / 239 NEUTRAL / 16 WEAK_SELL sobre 277 tickers (Issue #10). Régimen VIX y Kelly fraction no exportados por el pipeline — pendiente de fix. Universo reconstruido: 55 (403 en fuentes S&P500/Nasdaq100 vía Wikipedia), inconsistente con los 277 tickers de las señales.",
+      "ultima_corrida": "2026-07-13",
+      "ultima_actividad": "Sin corrida nueva del pipeline desde el Issue #10 (mismo run_utc 2026-07-12T21:57 UTC) — 22 señales BUY / 239 NEUTRAL / 16 WEAK_SELL sobre 277 tickers, sin cambios (Issue #12). Régimen VIX y Kelly fraction siguen sin exportarse — pendiente de fix. Universo reconstruido: 55 (403 en fuentes S&P500/Nasdaq100 vía Wikipedia, 2da corrida consecutiva con esta falla), inconsistente con los 277 tickers de las señales.",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
