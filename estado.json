@@ -19,8 +19,8 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "alerta",
-      "ultima_corrida": "2026-07-16",
-      "ultima_actividad": "ALERTA de frescura (Issue #16): run_meta.json sigue en run_utc 2026-07-12T21:57 UTC — 86.7h de antigüedad, supera el umbral de 24h. No se analizaron señales. Historial de anto-quant.yml muestra 4 fallos entre 2026-07-12 y 2026-07-13, y una corrida en progreso desde 2026-07-16 12:00 UTC al momento del chequeo. Pendiente confirmar si esa corrida termina en éxito.",
+      "ultima_corrida": "2026-07-19",
+      "ultima_actividad": "ALERTA de frescura (Issue #21): run_meta.json sigue en run_utc 2026-07-12T21:57 UTC — ~157.6h de antigüedad, tercera alerta consecutiva sobre la misma corrida obsoleta (tras #16 y #12). No se analizaron señales. anto-quant.yml lleva una semana sin corrida exitosa: 4 fallos de 6 intentos desde 2026-07-12, incluida la corrida del 07-16 que se esperaba restableciera la frescura. Nueva corrida en progreso desde 2026-07-19 11:35 UTC (run 29685409106), pendiente de resultado.",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
