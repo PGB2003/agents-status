@@ -19,8 +19,8 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "alerta",
-      "ultima_corrida": "2026-08-01",
-      "ultima_actividad": "ALERTA de frescura (Issue #39): run_meta.json sigue en run_utc 2026-07-12T21:57 UTC — ~470.7h (~19.6 días) de antigüedad, séptima alerta consecutiva sobre la misma corrida obsoleta (tras #16, #21, #25, #29, #33 y #37). No se analizaron señales. anto-quant.yml lleva 20 días sin corrida exitosa: 8 fallos consecutivos de 8 intentos completados (100%) desde 2026-07-12, incluida la corrida del 07-31 que también falló. Nueva corrida en progreso desde 2026-08-01 11:41 UTC (run 30698187878), pendiente de resultado. Se reiteró la recomendación de pausar el cron y depurar el pipeline manualmente.",
+      "ultima_corrida": "2026-08-04",
+      "ultima_actividad": "ALERTA de frescura (Issue #44): run_meta.json sigue en run_utc 2026-07-12T21:57 UTC — ~542.7h (~22.6 días) de antigüedad, octava alerta consecutiva sobre la misma corrida obsoleta (tras #16, #21, #25, #29, #33, #37 y #39). No se analizaron señales. anto-quant.yml lleva 22 días sin corrida exitosa: 10 fallos consecutivos de 10 intentos completados (100%) desde 2026-07-12, incluido un reintento manual (workflow_dispatch, 08-01 23:49) que también falló. Nueva corrida en progreso desde 2026-08-04 12:24 UTC (run 30908977556), pendiente de resultado. Se reiteró con más urgencia la recomendación de pausar el cron y depurar el pipeline manualmente.",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
