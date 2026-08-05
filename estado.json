@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-04",
+  "ultima_actualizacion": "2026-08-05",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-08-04",
-      "ultima_actividad": "Día 1 — EMPUJE (Issue #43). Racha: 0 (récord: 2).",
-      "racha": 0,
+      "ultima_corrida": "2026-08-05",
+      "ultima_actividad": "Día 2 — TIRÓN + CORE (Issue #45). Racha: 1 (récord: 2).",
+      "racha": 1,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-08-01"
     },
