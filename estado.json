@@ -18,9 +18,9 @@
     },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
-      "estado": "alerta",
-      "ultima_corrida": "2026-08-04",
-      "ultima_actividad": "ALERTA de frescura (Issue #44): run_meta.json sigue en run_utc 2026-07-12T21:57 UTC — ~542.7h (~22.6 días) de antigüedad, octava alerta consecutiva sobre la misma corrida obsoleta (tras #16, #21, #25, #29, #33, #37 y #39). No se analizaron señales. anto-quant.yml lleva 22 días sin corrida exitosa: 10 fallos consecutivos de 10 intentos completados (100%) desde 2026-07-12, incluido un reintento manual (workflow_dispatch, 08-01 23:49) que también falló. Nueva corrida en progreso desde 2026-08-04 12:24 UTC (run 30908977556), pendiente de resultado. Se reiteró con más urgencia la recomendación de pausar el cron y depurar el pipeline manualmente.",
+      "estado": "activo",
+      "ultima_corrida": "2026-08-07",
+      "ultima_actividad": "Issue #48: primera corrida fresca tras 8 alertas consecutivas de datos obsoletos (2026-07-16 a 2026-08-04). Régimen NORMAL (VIX 15.81, sin recorte). 35 señales BUY (0 STRONG_BUY) de 295 tickers; 9 con sizing Kelly (~44.1% capital de referencia), top APTV/APA/EXE. Backtest deteriorado vs. última referencia real (#12, 2026-07-13): alpha anualizado pasó de +14.5% a -10.2%, Sharpe de 0.61 a 0.41. Nasdaq-100 sigue sin datos de universo (0, 3ª corrida consecutiva) aunque S&P 500 se recuperó (403→503 tickers).",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
