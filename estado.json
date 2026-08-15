@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-14",
+  "ultima_actualizacion": "2026-08-15",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-08-14",
-      "ultima_actividad": "Ciclo matutino 2026-08-14: Día 1 — PECHO + TRÍCEPS reprogramado (ayer: fútbol 1h contó como cardio). Racha: 4 🔥🔥🔥🔥 — NUEVO RÉCORD.",
-      "racha": 4,
+      "ultima_corrida": "2026-08-15",
+      "ultima_actividad": "Ciclo matutino 2026-08-15: Día 2 — ESPALDA + BÍCEPS (Issue #59). Ayer no completado — racha cortada.",
+      "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-08-08"
     },
