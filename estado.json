@@ -4,10 +4,11 @@
     "personal": {
       "estado": "activo",
       "ultima_corrida": "2026-08-15",
-      "ultima_actividad": "Ciclo matutino 2026-08-15: Día 2 — ESPALDA + BÍCEPS (Issue #59). Ayer no completado — racha cortada.",
+      "ultima_actividad": "Scouting semanal depas 2026-08-15: 5 nuevos proyectos (MONTECARLO 7/10, TOP LIFE 7/10, BEYOND 5/10). Issue #60 abierto.",
       "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
-      "ultimo_scouting_depas": "2026-08-08"
+      "ultimo_scouting_depas": "2026-08-15",
+      "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/60"
     },
     "bickdata": {
       "estado": "activo",
