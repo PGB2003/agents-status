@@ -20,8 +20,8 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "activo",
-      "ultima_corrida": "2026-08-13",
-      "ultima_actividad": "Issue #56: régimen NORMAL (VIX 15.28, sin recorte). 44 señales BUY (0 STRONG_BUY) de 295 tickers; 11 con sizing Kelly (~52.6% capital de referencia), top DECK/APTV/EXE. Backtest se deterioró con fuerza vs. #52: alpha anualizado pasó de +0.71% a -28.2%, Sharpe de 0.78 a -0.23 — tercer salto grande consecutivo de ciclo a ciclo en el walk-forward. Nasdaq-100 sigue sin datos de universo (0, 5ª corrida consecutiva) aunque S&P 500 se mantiene estable (503 tickers).",
+      "ultima_corrida": "2026-08-16",
+      "ultima_actividad": "Issue #62: régimen LOW_VOL (VIX 14.63, sin recorte; antes NORMAL VIX 15.28). 37 señales BUY (0 STRONG_BUY) de 295 tickers; 7 con sizing Kelly (~31.3% capital de referencia, bajó de 11 posiciones/~52.6%), top DECK/EXE/APA. Backtest se recuperó con fuerza vs. #56: alpha anualizado pasó de -28.2% a +3.7%, Sharpe de -0.23 a 0.81 — cuarto salto grande consecutivo de ciclo a ciclo en el walk-forward, sigue siendo poco estable. Nasdaq-100 sigue sin datos de universo (0, 6ª corrida consecutiva) aunque S&P 500 se mantiene estable (503 tickers).",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
