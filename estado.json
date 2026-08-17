@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-16",
+  "ultima_actualizacion": "2026-08-17",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-08-16",
-      "ultima_actividad": "Día 3 — ABDOMEN A FONDO. Racha: 0 (récord: 4). Issue #61 abierto.",
-      "racha": 0,
+      "ultima_corrida": "2026-08-17",
+      "ultima_actividad": "Día 1 — PECHO + TRÍCEPS. Racha: 1 (récord: 4). Issue #63 abierto.",
+      "racha": 1,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-08-15",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/60"
