@@ -1,11 +1,11 @@
 {
-  "ultima_actualizacion": "2026-08-18",
+  "ultima_actualizacion": "2026-08-19",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-08-18",
-      "ultima_actividad": "Día 2 — ESPALDA + BÍCEPS. Racha: 2 (récord: 4). Issue #64 abierto.",
-      "racha": 2,
+      "ultima_corrida": "2026-08-19",
+      "ultima_actividad": "Día 2 — ESPALDA + BÍCEPS (repetición). Racha: 3 (récord: 4). Issue #65 abierto.",
+      "racha": 3,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-08-15",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/60"
