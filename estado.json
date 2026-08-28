@@ -1,5 +1,5 @@
 {
-  "ultima_actualizacion": "2026-08-27",
+  "ultima_actualizacion": "2026-08-28",
   "agentes": {
     "personal": {
       "estado": "activo",
@@ -19,9 +19,9 @@
     },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
-      "estado": "activo",
-      "ultima_corrida": "2026-08-25",
-      "ultima_actividad": "Issue #74: régimen NORMAL (VIX 15.13, sin recorte; antes NORMAL VIX 16.01). 36 señales BUY (0 STRONG_BUY) de 295 tickers; 9 con sizing Kelly (~34.1% capital de referencia, sube de ~32.5% — entra NVO, sale CMCSA), top EXE/APA/CNC. Backtest mejora vs. #70 pero sigue negativo: retorno total de -14.6% a -10.4%, Sharpe de -0.09 a -0.02, alpha anualizado de -23.6% a -21.2%, aunque el max drawdown se profundizó de -26.7% a -34.8% (underwater_pct 98.7%). Nasdaq-100 sigue sin datos de universo (0, ya varias corridas consecutivas) aunque S&P 500 se mantiene estable (503 tickers).",
+      "estado": "alerta",
+      "ultima_corrida": "2026-08-28",
+      "ultima_actividad": "ALERTA de frescura (Issue #78): run_meta.json sigue en run_utc 2026-08-25T11:36 UTC — ~73.0h de antigüedad, por encima del umbral de 24h. No se analizaron señales. A diferencia de incidentes previos, no hubo ningún intento (ni éxito ni fallo) registrado en Actions para la corrida programada del 2026-08-28 ~10:30 UTC tras el último éxito (run #22, 2026-08-25): el trigger `schedule` de anto-quant.yml no se disparó. Se recomendó verificar que el workflow siga habilitado y considerar un workflow_dispatch manual para no perder el ciclo.",
       "cadencia": "cada 3 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
