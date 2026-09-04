@@ -1,10 +1,10 @@
 {
-  "ultima_actualizacion": "2026-09-03",
+  "ultima_actualizacion": "2026-09-04",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-09-03",
-      "ultima_actividad": "Día M — PIERNAS (mantenimiento). Issue #89 abierto. Racha: 0 (récord: 5) — reiniciada porque el Issue #88 (2026-09-02, Día C Cardio) quedó abierto sin completar. Día M insertado por mantenimiento (~27 días sin día de piernas en la rotación actual); mañana retoma Día 1.",
+      "ultima_corrida": "2026-09-04",
+      "ultima_actividad": "Día 1 — PECHO + TRÍCEPS. Issue #90 abierto. Racha: 0 (récord: 5) — reiniciada porque el Issue #89 (2026-09-03, Día M Piernas) quedó abierto sin completar.",
       "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-08-29",
