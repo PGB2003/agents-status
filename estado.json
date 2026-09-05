@@ -20,9 +20,9 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "alerta",
-      "ultima_corrida": "2026-09-01",
-      "ultima_actividad": "ALERTA de frescura (Issue #86): run_meta.json sigue en run_utc 2026-08-28T22:14 UTC — ~62.4h de antigüedad, por encima del umbral de 24h. No se analizaron señales. Es la segunda vez consecutiva (ver también Issue #78) que el trigger `schedule` de anto-quant.yml no genera ningún run en su fecha programada (esta vez, 2026-08-31 ~10:30 UTC tras el último éxito, run #23 del 2026-08-28). Se recomendó verificar que el workflow siga habilitado, lanzarlo manualmente vía workflow_dispatch, y evaluar un disparo redundante en vez de depender solo del cron nativo de Actions.",
-      "cadencia": "cada 3 días, ~7:30 AM Lima"
+      "ultima_corrida": "2026-09-05",
+      "ultima_actividad": "ALERTA de frescura (Issue #92): run_meta.json sigue en run_utc 2026-09-01T16:04 UTC (run #24) — ~92.6h de antigüedad, muy por encima del umbral de 24h. No se analizaron señales. Es la TERCERA alerta consecutiva por el mismo motivo (ver Issues #78 y #86): el trigger `schedule` de anto-quant.yml vuelve a no generar ningún run en su fecha programada (esta vez, 2026-09-05 ~10:30 UTC). No se abre un Issue [ANTO] Señales real desde el #74 (2026-08-25) — 11 días sin reporte de señales. Se identificó además un problema de timing: cuando el pipeline sí corre el mismo día de una alerta, lo hace horas después del chequeo de ANTO, así que esos datos frescos nunca llegan a analizarse antes de volver a quedar obsoletos. Se recomendó lanzar el workflow manualmente y reforzar/reemplazar el disparo schedule nativo.",
+      "cadencia": "cada 4 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
   }
