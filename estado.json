@@ -20,9 +20,10 @@
     },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
-      "estado": "alerta",
+      "estado": "activo",
       "ultima_corrida": "2026-09-05",
-      "ultima_actividad": "ALERTA de frescura (Issue #92): run_meta.json sigue en run_utc 2026-09-01T16:04 UTC (run #24) — ~92.6h de antigüedad, muy por encima del umbral de 24h. No se analizaron señales. Es la TERCERA alerta consecutiva por el mismo motivo (ver Issues #78 y #86): el trigger `schedule` de anto-quant.yml vuelve a no generar ningún run en su fecha programada (esta vez, 2026-09-05 ~10:30 UTC). No se abre un Issue [ANTO] Señales real desde el #74 (2026-08-25) — 11 días sin reporte de señales. Se identificó además un problema de timing: cuando el pipeline sí corre el mismo día de una alerta, lo hace horas después del chequeo de ANTO, así que esos datos frescos nunca llegan a analizarse antes de volver a quedar obsoletos. Se recomendó lanzar el workflow manualmente y reforzar/reemplazar el disparo schedule nativo.",
+      "ultima_actividad": "Watchdog OK: run_meta.json fresco (run_utc 2026-09-05T19:54 UTC, ~3.7h de antigüedad) e Issue #98 \"[ANTO] Señales — 2026-09-05\" abierto con reporte completo. Régimen VIX: LOW_VOL (VIX 14.32, sin recorte de sizing). 49 BUY / 232 NEUTRAL / 14 WEAK_SELL sobre 295 tickers. Ciclo se recuperó tras 11 días sin reporte real (última alerta: Issue #92).",
+      "ultima_actualizacion": "2026-09-05",
       "cadencia": "cada 4 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
