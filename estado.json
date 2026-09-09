@@ -21,9 +21,9 @@
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
       "estado": "activo",
-      "ultima_corrida": "2026-09-05",
-      "ultima_actividad": "Watchdog OK: run_meta.json fresco (run_utc 2026-09-05T19:54 UTC, ~3.7h de antigüedad) e Issue #98 \"[ANTO] Señales — 2026-09-05\" abierto con reporte completo. Régimen VIX: LOW_VOL (VIX 14.32, sin recorte de sizing). 49 BUY / 232 NEUTRAL / 14 WEAK_SELL sobre 295 tickers. Ciclo se recuperó tras 11 días sin reporte real (última alerta: Issue #92).",
-      "ultima_actualizacion": "2026-09-05",
+      "ultima_corrida": "2026-09-09",
+      "ultima_actividad": "Watchdog OK: run_meta.json fresco (run_utc 2026-09-09T15:42 UTC, ~7.9h de antigüedad) e Issue #103 \"[ANTO] Señales — 2026-09-09\" abierto con reporte completo. Régimen VIX: NORMAL (VIX 15.72, sin recorte de sizing). 64 BUY / 211 NEUTRAL / 20 WEAK_SELL sobre 295 tickers.",
+      "ultima_actualizacion": "2026-09-09",
       "cadencia": "cada 4 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
