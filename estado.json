@@ -1,14 +1,14 @@
 {
-  "ultima_actualizacion": "2026-09-23",
+  "ultima_actualizacion": "2026-09-24",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-09-23",
-      "ultima_actividad": "Día 2 — ESPALDA + BÍCEPS. Issue #122 abierto. Racha: 0 (récord: 5) — ayer (#121, Día 1 Pecho+Tríceps) quedó sin cerrar, racha reiniciada.",
+      "ultima_corrida": "2026-09-24",
+      "ultima_actividad": "Día 3 — ABDOMEN A FONDO. Issue #123 abierto. Racha: 0 (récord: 5) — ayer (#122, Día 2 Espalda+Bíceps) quedó sin cerrar, racha reiniciada.",
       "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-09-19",
-      "ultima_actualizacion": "2026-09-23",
+      "ultima_actualizacion": "2026-09-24",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/107"
     },
     "bickdata": {
