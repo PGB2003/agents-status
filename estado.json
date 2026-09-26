@@ -1,14 +1,14 @@
 {
-  "ultima_actualizacion": "2026-09-25",
+  "ultima_actualizacion": "2026-09-26",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-09-25",
-      "ultima_actividad": "Día C — CARDIO. Issue #124 abierto. Racha: 0 (récord: 5) — ayer (#123, Día 3 Abdomen a fondo) quedó sin cerrar, racha reiniciada.",
+      "ultima_corrida": "2026-09-26",
+      "ultima_actividad": "Día 1 — PECHO + TRÍCEPS. Issue #126 abierto. Racha: 0 (récord: 5) — ayer (#124, Día C Cardio) quedó sin cerrar, racha reiniciada.",
       "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-09-19",
-      "ultima_actualizacion": "2026-09-25",
+      "ultima_actualizacion": "2026-09-26",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/107"
     },
     "bickdata": {
