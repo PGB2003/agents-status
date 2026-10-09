@@ -20,10 +20,10 @@
     },
     "job-search": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 3", "cadencia": null },
     "quantedge": {
-      "estado": "activo",
+      "estado": "alerta",
       "ultima_corrida": "2026-10-05",
-      "ultima_actividad": "Watchdog OK: run_meta.json fresco (run_utc 2026-10-05T20:09 UTC, ~3.5h de antigüedad) e Issue #140 \"[ANTO] Señales — 2026-10-05\" abierto con reporte completo. Régimen VIX: NORMAL (VIX 15.31, sin recorte de sizing) — baja levemente desde #134. 55 BUY / 220 NEUTRAL / 20 WEAK_SELL / 0 SELL sobre 295 tickers (BUY cae ~20% vs. corrida anterior). Backtest rebota fuerte (Sharpe 0.532) pero alpha sigue negativo (−8.3% anualizado) y con alta sensibilidad a ventana — Piero: tratar con escepticismo. Nasdaq-100 sigue en 0 (fallo persistente de fuente, 2ª corrida seguida).",
-      "ultima_actualizacion": "2026-10-05",
+      "ultima_actividad": "Watchdog ALERTA (2026-10-09): datos con 4 días de antigüedad (run_meta.json del 2026-10-05) y sin Issue de señales de hoy. Auto-sanación falló: workflow_dispatch (run 38005395819) encoló OK pero repitió el mismo error del run programado (37963014687) — ImportError al importar pyarrow dentro del notebook pese a instalarse correctamente en el step de pip, al llamar FREDLoader.fetch_all -> to_parquet. No es un flake: mismo fallo en ambos intentos. Issue #147 \"[ANTO] ALERTA — 2026-10-09\" abierto con diagnóstico completo (hipótesis: incompatibilidad de pyarrow 26.0.0 sin techo de versión). Issues duplicados #145/#146 del propio workflow.",
+      "ultima_actualizacion": "2026-10-09",
       "cadencia": "cada 4 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
