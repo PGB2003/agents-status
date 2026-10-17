@@ -22,8 +22,8 @@
     "quantedge": {
       "estado": "alerta",
       "ultima_corrida": "2026-10-05",
-      "ultima_actividad": "Watchdog ALERTA (2026-10-13): datos con ~8 días de antigüedad (run_meta.json del 2026-10-05) y sin Issue de señales de hoy. El run programado del 2026-10-13 (38439877761) volvió a fallar con el mismo ImportError de pyarrow/to_parquet diagnosticado en #147 (2026-10-09) — causa raíz sin corregir tras 8 días. Disparé auto-sanación (workflow_dispatch run 38485227910, quedó encolado), pero como ya había un Issue ALERTA abierto de un ciclo anterior sin resolver (#147), no basta con reintentar en silencio: abrí Issue #154 \"[ANTO] ALERTA — 2026-10-13\" con diagnóstico actualizado. Issues duplicados previos: #145/#146/#153.",
-      "ultima_actualizacion": "2026-10-13",
+      "ultima_actividad": "Watchdog ALERTA (2026-10-17): datos con ~12 días de antigüedad (run_meta.json del 2026-10-05) y sin Issue de señales de hoy. El run programado del 2026-10-17 (39037677276) volvió a fallar con el mismo ImportError de pyarrow/to_parquet diagnosticado en #147 (2026-10-09) y #154 (2026-10-13) — causa raíz (pin sin techo de pyarrow en requirements.txt) sin corregir tras 12 días y 5 fallos consecutivos. Disparé auto-sanación (workflow_dispatch run 39079683219, quedó encolado), pero como ya había un Issue ALERTA abierto de un ciclo anterior sin resolver (#154), no basta con reintentar en silencio: abrí Issue #162 \"[ANTO] ALERTA — 2026-10-17\" con diagnóstico actualizado. Issues duplicados previos: #145/#146/#153/#154/#159/#160.",
+      "ultima_actualizacion": "2026-10-17",
       "cadencia": "cada 4 días, ~7:30 AM Lima"
     },
     "licitaciones": { "estado": "pendiente", "ultima_corrida": null, "ultima_actividad": "Por configurar — sesión 5", "cadencia": null }
