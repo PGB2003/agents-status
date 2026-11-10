@@ -1,14 +1,14 @@
 {
-  "ultima_actualizacion": "2026-11-09",
+  "ultima_actualizacion": "2026-11-10",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-11-09",
-      "ultima_actividad": "Día 1 — PECHO + TRÍCEPS. Issue #205 abierto. Racha: 3 (récord: 5) — ayer (#204, Día C Cardio) cerrado y confirmado por Piero: fútbol 15 min + caminata 1h.",
-      "racha": 3,
+      "ultima_corrida": "2026-11-10",
+      "ultima_actividad": "Día 2 — ESPALDA + BÍCEPS. Issue #209 abierto. Racha: 4 (récord: 5) — ayer (#205, Día 1 Pecho+Tríceps) cerrado y confirmado por Piero: 3x22 en casi todo, saltó el press inclinado por falta de técnica.",
+      "racha": 4,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-11-07",
-      "ultima_actualizacion": "2026-11-09",
+      "ultima_actualizacion": "2026-11-10",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/203"
     },
     "bickdata": {
