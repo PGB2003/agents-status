@@ -1,14 +1,14 @@
 {
-  "ultima_actualizacion": "2026-11-10",
+  "ultima_actualizacion": "2026-11-11",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-11-10",
-      "ultima_actividad": "Día 2 — ESPALDA + BÍCEPS. Issue #209 abierto. Racha: 4 (récord: 5) — ayer (#205, Día 1 Pecho+Tríceps) cerrado y confirmado por Piero: 3x22 en casi todo, saltó el press inclinado por falta de técnica.",
-      "racha": 4,
+      "ultima_corrida": "2026-11-11",
+      "ultima_actividad": "Día 3 — ABDOMEN A FONDO. Issue #210 abierto. Racha: 5 (empata récord: 5) — ayer (#209, Día 2 Espalda+Bíceps) cerrado y confirmado por Piero: completo salvo curl inclinado en cama (saltado de nuevo por falta de técnica, ya anotado para la próxima vez).",
+      "racha": 5,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-11-07",
-      "ultima_actualizacion": "2026-11-10",
+      "ultima_actualizacion": "2026-11-11",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/203"
     },
     "bickdata": {
