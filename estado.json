@@ -1,14 +1,14 @@
 {
-  "ultima_actualizacion": "2026-11-11",
+  "ultima_actualizacion": "2026-11-12",
   "agentes": {
     "personal": {
       "estado": "activo",
-      "ultima_corrida": "2026-11-11",
-      "ultima_actividad": "Día 3 — ABDOMEN A FONDO. Issue #210 abierto. Racha: 5 (empata récord: 5) — ayer (#209, Día 2 Espalda+Bíceps) cerrado y confirmado por Piero: completo salvo curl inclinado en cama (saltado de nuevo por falta de técnica, ya anotado para la próxima vez).",
-      "racha": 5,
+      "ultima_corrida": "2026-11-12",
+      "ultima_actividad": "Día C — CARDIO. Issue #211 abierto. Racha: 0 (récord: 5) — ayer (#210, Día 3 Abdomen a fondo) quedó sin cerrar, racha reiniciada; secuencia continúa normal tras Día 3.",
+      "racha": 0,
       "cadencia": "diaria 7am + semanal depas",
       "ultimo_scouting_depas": "2026-11-07",
-      "ultima_actualizacion": "2026-11-11",
+      "ultima_actualizacion": "2026-11-12",
       "ultimo_issue_depas": "https://github.com/PGB2003/personal-agents/issues/203"
     },
     "bickdata": {
